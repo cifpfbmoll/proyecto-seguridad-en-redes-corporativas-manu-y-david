@@ -10,6 +10,14 @@ En este proyecto vamos a relaizar el Sprint 1 - Hardening de Ubuntu, tenemos tre
 
 Estas tareas engloban tareas más simples que iremos desarrollando a lo largo del proyecto para cumplir el objetivo final.
 
+### Objetivos de laas tareas principales  ⌨️
+
+* **Asegura las configuraciones globales**
+   - Configuración del arranque GRUB.
+   - Establecer una contraseña de arranque.
+   - Establecer permisos fichero de configuración de arranque
+   - Obligar al uso de contraseña en el modo “single user”
+
 ## Pre-requisitos 📋
 _Que cosas necesitas para llevar a cabo el proyecto:_
 
