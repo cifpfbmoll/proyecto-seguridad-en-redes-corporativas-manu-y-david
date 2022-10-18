@@ -1,11 +1,14 @@
 # Hardening en Ubuntu
 
-_En este proyecto vamos a relaizar el Sprint 1 - Hardening de Ubuntu, tenemos tres tareas principales que realizar, estas son:
+En este proyecto vamos a relaizar el Sprint 1 - Hardening de Ubuntu, tenemos tres tareas principales que realizar, estas son:
 
 · Asegura las configuraciones globales.
+
 · Configuración de usuarios y grupos
+
 · Actualizaciones de software.
-Estas tareas engloban tareas más simples que iremos desarrollando a lo largo del proyecto para cumplir el objetivo final._
+
+Estas tareas engloban tareas más simples que iremos desarrollando a lo largo del proyecto para cumplir el objetivo final.
 
 ## Pre-requisitos 📋
 _Que cosas necesitas para llevar a cabo el proyecto:_
