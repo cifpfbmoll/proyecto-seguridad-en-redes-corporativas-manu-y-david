@@ -13,13 +13,27 @@ Estas tareas engloban tareas más simples que iremos desarrollando a lo largo de
 ### Objetivos de laas tareas principales  ⌨️
 
 * **Asegura las configuraciones globales**
+
    - Configuración del arranque GRUB.
    - Establecer una contraseña de arranque.
    - Establecer permisos fichero de configuración de arranque
    - Obligar al uso de contraseña en el modo “single user”
+ 
+ * **Configuración de usuarios y grupos**
 
+   - Complejidad
+   - Reutilización de contraseñas.
+   - Almacenamiento de contraseñas
+   - Configuración del entorno
+
+* **Actualizaciones de software**
+
+   - Registros:
+      · Audit
+      · RSYSLOG
+      
 ## Pre-requisitos 📋
-_Que cosas necesitas para llevar a cabo el proyecto:_
+Que cosas necesitas para llevar a cabo el proyecto:
 
 * Máquina con un sistema Ubuntu 22.04
 
