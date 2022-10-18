@@ -53,5 +53,5 @@ _Las herramientas que se han utilizado para crear el proyecto son:_
 
 ## Enlaces  📖
 
-* proyecto-seguridad-en-redes-corporativas-manu-y-david
-* proyecto-seguridad-en-redes-corporativas-manu-y-david created by GitHub Classroom
+* "proyecto-seguridad-en-redes-corporativas-manu-y-david"
+* "proyecto-seguridad-en-redes-corporativas-manu-y-david created by GitHub Classroom"
