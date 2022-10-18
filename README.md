@@ -29,7 +29,9 @@ Estas tareas engloban tareas más simples que iremos desarrollando a lo largo de
 * **Actualizaciones de software**
 
    - Registros:
+  
       · Audit
+      
       · RSYSLOG
       
 ## Pre-requisitos 📋
