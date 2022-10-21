@@ -1,4 +1,4 @@
-# Hardening en Ubuntu
+# Hardening en Ubuntu (Sprint 1)
 
 En este proyecto vamos a relaizar el Sprint 1 - Hardening de Ubuntu, tenemos tres tareas principales que realizar, estas son:
 
