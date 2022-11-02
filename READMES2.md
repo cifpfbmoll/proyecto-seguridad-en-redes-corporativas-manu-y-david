@@ -12,8 +12,8 @@ En este proyecto vamos a relaizar el Sprint 2 - Hardening de Windows, tenemos la
 
 Estas tareas engloban tareas más simples que iremos desarrollando a lo largo del proyecto para cumplir el objetivo final.
 
-### Objetivos de laas tareas principales  ⌨️
-s
+### Objetivos de laas tareas principales  ###
+
 * **Configuración del portátil del empleado**
 
  - Instala un S.O Windows 11 o 10
