@@ -8,11 +8,11 @@ En este proyecto vamos a relaizar el Sprint 4 - Hardening Apache, tenemos las si
 
  - Configurar el servidor Apache, ficheros de configuración, usuarios y grupos.
  
-* ** · Exposición mínima de módulos.**
+* **· Exposición mínima de módulos.**
 
-* ** · Creación de virtualhost con tu nombre y apellido.**
+* **· Creación de virtualhost con tu nombre y apellido.**
 
-* ** · Configuración múltiple y de contexto: directiva options.**
+* **· Configuración múltiple y de contexto: directiva options.**
  
  * **Restringir el accesor al contenido mediante:**
  
