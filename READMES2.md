@@ -1,52 +1,42 @@
-# Hardening en Windows (Sprint 2)
+# Escaneo de vulnerabilidades (Sprint 6)
 
-En este proyecto vamos a relaizar el Sprint 2 - Hardening de Windows, tenemos las siguientes tareas principales que realizar, estas son:
+En este proyecto vamos a relaizar el Sprint 6 - Escaneo de vulnerabilidades, tenemos las siguientes tareas principales que realizar, estas son:
 
-· Configuración del portátil del empleado.
+· Escaneo con herramienta "Nessus Essentials", usando entorno gráfico.
 
-· Comprobación de la protección contra ransomware.
-
-· Intento de intrusión.
-
-· Medidas contra herramientas live
+· Escaneo con herramienta "Nmap".
 
 Estas tareas engloban tareas más simples que iremos desarrollando a lo largo del proyecto para cumplir el objetivo final.
 
-### Objetivos de laas tareas principales  ###
+### Objetivos de las tareas principales  ###
 
-* **Configuración del portátil del empleado**
+* **Escaneo con herramienta "Nessus Essentials"**
 
- - Instala un S.O Windows 11 o 10
- - Crear un usuario administrador y un usuario con privilegios mínimos. 
- - Desinstalar programas que no estemos usando
- - Utilizar Seguridad de Windows
+ - Instala herramienta con cuenta educativa
+ - Realizar escaneo de vulneariblidades en Metasplotaible2 y Ubuntu Apache
+
  
- * **Comprobación de la protección contra ransomware**
+ * **Escaneo con herramienta "Nmap"**
 
- - Acceso controlado a carpetas
- - Recuperación de datos por ransomware
+ - Instala herramienta
+ - Realizar escaneo de vulneariblidades en Metasplotaible2 y Ubuntu Apache
 
-* **Intento de intrusión**
-
-   - Comprueba que si hubiera un intento de intrusión en uno de los portátiles si podrían resetear la contraseña del administrador y acceder a la cuenta.
-   
-* **Medidas contra herramientas live**
-   - Adecuada política de contraseñas: caducidad de contraseñas, longitud, símbolos, etc.
-   - Cifrado de disco. 
-   - Comenta cómo evitar el arranque de herramientas live.
 
     
 ## Pre-requisitos 📋
 Que cosas necesitas para llevar a cabo el proyecto:
 
 * Máquina con un sistema Windows 10
-* Kali Linux Live
+* Ubuntu server, con Apache
+* Maquina "Metasplotaible2"
 
 ## Construido con 🛠️
 
 _Las herramientas que se han utilizado para crear el proyecto son:_
 
-* Recuperar contraseña desde Kali Linux : "https://redondoiritiapedro.wordpress.com/2016/10/25/recuperar-contrasenas-windows-desde-kali-linux/"
+* Herramienta "Nessus Essentials": https://es-la.tenable.com/tenable-for-education?tns_redirect=true
+* Herramienta "Nmap": https://comoinstalar.info/nmap-en-linux/ o (Instalada en máquina Kali Linux)
+* Maquina "Metasplotaible2": https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
 
 
 ## Autores ✒️
