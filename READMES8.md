@@ -1,6 +1,6 @@
-# Escaneo de vulnerabilidades (Sprint 8)
+#  IDS y VPN con pfSense (Sprint 8)
 
-En este proyecto vamos a relaizar el Sprint 8 - Seguridad en entornos empresariales, tenemos las siguientes tareas principales que realizar, estas son:
+En este proyecto vamos a relaizar el Sprint 8 -  IDS y VPN con pfSense, tenemos las siguientes tareas principales que realizar, estas son:
 
 · Instalación IDS/IPS
 
